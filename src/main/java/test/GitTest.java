@@ -9,22 +9,7 @@ public class GitTest {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("txd");
-        System.out.println("txd");
-        System.out.println("txd");
-        System.out.println("txd");
-        System.out.println("txd");
-        System.out.println("txd");
-        System.out.println("txd");
-        System.out.println("txd");
-        System.out.println("txd");
-        System.out.println("txd");
-        System.out.println("txd");
-        System.out.println("txd");
-        System.out.println("txd");
-        System.out.println("txd");
-        System.out.println("12222");
-        System.out.println("txd");
-        System.out.println("txd");
-        System.out.println("11111");
+
+        
     }
 }
