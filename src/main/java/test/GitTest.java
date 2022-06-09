@@ -19,5 +19,9 @@ public class GitTest {
         System.out.println("txd");
         System.out.println("txd");
         System.out.println("txd");
+        System.out.println("txd");
+        System.out.println("txd");
+        System.out.println("txd");
+        System.out.println("txd");
     }
 }
